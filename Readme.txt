@@ -6,4 +6,4 @@ For Automation:
 4. Java Version: 1.8
 
 
-Note: There is no "Seven Deadly Sins" post in the list so i choose "Death Note" replace of "Seven Deadly Sins"
+Note: There are no "Seven Deadly Sins" post in the Search list so I choose "Death Note" to replace "Seven Deadly Sins"
